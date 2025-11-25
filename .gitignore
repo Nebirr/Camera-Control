@@ -1,24 +1,45 @@
-# Visual Studio / build outputs
-/.vs/
-/x64/
-/Debug/
-/Release/
-/ipch/
-/out/
-/build/
-*.obj
-*.pdb
-*.log
-*.exe
+# Visual Studio
+.vs/
 *.user
 *.suo
 *.VC.db
 *.VC.opendb
+*.ipch
 
-# CMake
-/CMakeFiles/
-/CMakeCache.txt
+# Build artifacts
+x64/
+x86/
+[Bb]uild/
+[Oo]bj/
+[Bb]in/
+Debug*/
+Release*/
+*.obj
+*.pdb
+*.idb
+*.tlog
+*.log
+*.pch
+*.ilk
+*.exp
+*.iobj
+*.ipdb
+*.cache
+*.tmp
 
-# VS project artifacts (if any)
-/*.sln
-/*.vcxproj*
+# Executables & libs (falls erzeugt)
+*.exe
+*.dll
+*.lib
+
+# OpenCV-Testausgaben
+frame.png
+
+# vcpkg heavy folders
+vcpkg/downloads/
+vcpkg/buildtrees/
+vcpkg/packages/
+vcpkg/installed/
+
+# Misc
+*.opendb
