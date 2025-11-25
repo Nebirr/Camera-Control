@@ -26,5 +26,9 @@
     <None Include="README..md" />
     <None Include=".gitignore" />
     <None Include="packages.config" />
+    <None Include="CHANGELOG.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="VERSION.txt" />
   </ItemGroup>
 </Project>
