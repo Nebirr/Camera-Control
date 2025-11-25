@@ -30,5 +30,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="VERSION.txt" />
+    <Text Include="LICENSE.txt" />
   </ItemGroup>
 </Project>
