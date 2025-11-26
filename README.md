@@ -31,6 +31,6 @@ Platform: **Windows + Visual Studio (x64)**. Dependencies will be added graduall
 ## License
 
 This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE.txt) file for details.
 
 ---
