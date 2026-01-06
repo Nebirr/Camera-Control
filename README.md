@@ -34,3 +34,9 @@ This project is licensed under the MIT License.
 See the [LICENSE](LICENSE.txt) file for details.
 
 ---
+
+## Project Status
+This project is under active development.
+Current focus: basic camera control, live preview and modular architecture.
+
+---
